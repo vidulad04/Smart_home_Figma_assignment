@@ -9,4 +9,6 @@ View the interactive prototype: "https://www.figma.com/design/OOQ8vpUvVIdV5C1fxZ
 - ON/OFF toggle for appliances
 - Temperature control for AC 
 - Fan speed control 
-- Light brightness slider 
+- Light brightness slider
+## Please view the preview in figma using the above link
+ALso the zip file contains the components created in this project.
